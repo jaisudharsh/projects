@@ -1,0 +1,4 @@
+SDP -> Server -> server.js
+
+
+ADD YOUR OWN MONGODB CONNECTION STRING
